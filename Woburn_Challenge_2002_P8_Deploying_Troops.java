@@ -5,6 +5,7 @@ import java.util.*;
 
 public class Woburn_Challenge_2002_P8_Deploying_Troops{
     //https://dmoj.ca/problem/wc02p8
+    //DOES NOT WORK (I THINK)
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
     public static void main (String[] args) throws IOException{
