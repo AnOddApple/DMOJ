@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 public class CCC_2000_S4 {
-    //https://dmoj.ca/problem/2spooky4me
+    //https://dmoj.ca/problem/ccc00s4
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 
