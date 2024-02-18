@@ -4,6 +4,7 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 public class Appleby_Contest_2019_P4_Rectangles{
+    //https://dmoj.ca/problem/ac19p4
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
     public static void main (String[] args) throws IOException{
